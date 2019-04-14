@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<organization name = "Stark Industries">
+    <department name = "Avangers">
+        <employee firstname = "Toni" secondname = "Stark">
+            <hiredate> 07.07.2010 </hiredate>
+            <salary> 10000000 </salary>
+            <jobtitle value = "Director"/>
+        </employee>
+        <employee firstname = "Piter" secondname = "Parker">
+            <hiredate> 07.07.2018 </hiredate>
+            <salary> 100 </salary>
+            <jobtitle value = "Friendly Neighborhood"/>
+        </employee>
+        <employee firstname = "Tor" secondname = "Mighty">
+            <hiredate> 09.09.2010 </hiredate>
+            <salary> 200 </salary>
+            <jobtitle value = "God of thunder"/>
+        </employee>
+        </department>
+        <department name = "Avangers2">
+            <employee firstname = "Steven" secondname = "Rogers">
+                <hiredate> 08.08.2010 </hiredate>
+                <salary> 300 </salary>
+                <jobtitle value = "Capitan Amenica"/>
+            </employee>
+            <employee firstname = "Bruce" secondname = "Banner">
+                <hiredate> 10.10.2010 </hiredate>
+                <salary> 400 </salary>
+                <jobtitle value = "Hulk"/>
+            </employee>
+            <employee firstname = "Natasha" secondname = "Romanova">
+                <hiredate> 11.11.2010 </hiredate>
+                <salary> 150 </salary>
+                <jobtitle value = "Black Wdiow"/>
+            </employee>
+        </department>
+</organization>
+
+
+
+
+
+
+
